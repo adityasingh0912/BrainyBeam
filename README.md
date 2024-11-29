@@ -63,8 +63,8 @@ This repository contains solutions to the tasks assigned during the Brainy Beam 
 
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone <[repository_url](https://github.com/adityasingh0912/BrainyBeam)>
+  
    ```
 
 2. Install dependencies:
